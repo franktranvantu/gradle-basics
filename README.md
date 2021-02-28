@@ -1,3 +1,3 @@
-# About this Workshop
+# Adding Dependencies
 
-This workshop will walk through what dependencies are, why you want them, how to use them, and finally how to manage them.
+Let's add some dependencies to our build script and get them downloaded
